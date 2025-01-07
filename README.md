@@ -17,7 +17,7 @@
             <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
         </section>
         <section class="projects">
-            <h2>🛠️ Projects</h2>
+            <h2>🛠 Projects</h2>
             <div class="project-card">
                 <h3>Project 1: Traffic Analysis Using Machine Learning</h3>
                 <ul>
