@@ -18,12 +18,26 @@
         <section class="projects">
             <h2>🛠 Projects</h2>
             <div class="project-card">
-                <h3>Project 1: Traffic Analysis Using Machine Learning</h3>
+                <h3>Project 1: Urban Sustainable Mobility of Greater Transportation
+Objectives:</h3>
                 <ul>
-                    <li><strong>Objectives:</strong> Analyze urban traffic trends and predict traffic jams using ML algorithms.</li>
-                    <li><strong>Features:</strong> Real-time traffic data analysis, predictive ML models, and visualization dashboards.</li>
-                    <li><strong>Technologies:</strong> Machine Learning, GPS/IoT data sources, visualization tools.</li>
-                    <li><strong>Applications:</strong> Improved traffic management, reduced travel time, enhanced emergency response efficiency.</li>
+<li>Analyze urban transportation trends to enhance sustainability and optimize mobility systems.
+Predict and mitigate transportation bottlenecks using computational models.
+Features:</li>
+
+<li>Real-time transportation data analysis through efficient algorithms.
+Predictive models implemented using C++ for high performance and reliability.
+User-friendly visualization tools to showcase transportation trends.
+Technologies:</li>
+
+<li>Programming Language: C++ for processing transportation data and implementing predictive models.
+Integration with GPS/IoT data sources for dynamic inputs.
+Libraries: Use STL, Boost, or third-party libraries for data processing and analysis.
+Applications:</li>
+
+<li>Better traffic and public transit management.
+Enhanced commuter experience with optimized schedules and routes.
+Support for urban planning to promote sustainable and eco-friendly transportation.</li>
                 </ul>
             </div>
         </section>
