@@ -8,6 +8,7 @@
         <h1>DAA Portfolio</h1>
     </header>
     <main>
+    <img src="images.jpg" alt="Description of the image" width="300">
         <section class="about">
             <h2>Hello, I'm <span class="highlight">ADITYA GAVADE</span> 👋</h2>
             <p>I am passionate about technology and problem-solving. Here's a glimpse of my work:</p>
@@ -60,7 +61,6 @@
     <footer class="footer">
         <p>&copy; 2025 Aditya Gavade</p>
     </footer>
-    <img src="download.jpg" alt="Description of the image" width="300">
 
 </body>
 </html>
