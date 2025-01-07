@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -52,7 +51,7 @@
                 <dt>Course Instructor</dt>
                 <dd>Shankar B</dd>
                 <dt>University</dt>
-                <dd>KLE TECHNOLOGY</dd>
+                <dd>KLE TECHNOLOGY UNIVERSITY </dd>
                 <dt>Department</dt>
                 <dd>COMPUTER SCIENCE AND ENGINEERING (BE)</dd>
             </dl>
